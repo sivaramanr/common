@@ -2,15 +2,13 @@ package io.github.sivaramanr.common.types;
 
 public enum GenericType {
 
-    PRICE_GROUP,
+    ITEM_GROUP,
 
-    PRICE_AVG_INTERVAL,
-
-    BILLABLE_ITEM,
+    PRODUCT_CATEGORY,
 
     CATEGORY,
 
-    FOOD_TYPE,
+    PRICE_GROUP,
 
     PROPERTY,
 
